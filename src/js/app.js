@@ -36,7 +36,7 @@ const parameters = {
   count: 100000,
   size: 0.02,
   radius: 5,
-  branches: 2,
+  branches: 5,
   spin: 1,
   randomness: 0.2,
   randomnessPower: 3,
